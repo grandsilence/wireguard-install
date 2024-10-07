@@ -1,8 +1,5 @@
 # WireGuard installer (with Amnezia WG config generator)
 
-![Lint](https://github.com/grandsilence/wireguard-install/workflows/Lint/badge.svg)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/angristan)
-
 > Fork of [angristan/wireguard-install](https://github.com/angristan/wireguard-install) that supports Amnezia WireGuard config generations.
 > The configuration generator in this fork adds the following parameters required for AmneziaWG to work:
 
